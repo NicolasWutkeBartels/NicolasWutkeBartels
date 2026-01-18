@@ -70,6 +70,8 @@ Atualmente trabalho principalmente com **JavaScript/TypeScript, React, Next.js e
 
 ⭐ Sempre aberto a aprender, colaborar e construir coisas legais!
 
+<img src="https://raw.githubusercontent.com/NicolasWutkeBartels/NicolasWutkeBartels/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NicolasWutkeBartels.NicolasWutkeBartels" />
 </div>
